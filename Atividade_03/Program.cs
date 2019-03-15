@@ -16,6 +16,7 @@ namespace Atividade_03
             Console.WriteLine("Can you see me?.");
             Console.WriteLine("Ñão o que");
             Console.WriteLine("1");
+            Console.WriteLine("2");
         }
     }
 }
