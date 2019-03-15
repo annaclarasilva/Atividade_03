@@ -15,6 +15,7 @@ namespace Atividade_03
             Console.WriteLine("Dave Jonesss.");
             Console.WriteLine("Can you see me?.");
             Console.WriteLine("Ñão o que");
+            Console.WriteLine("R - Acrescentando a sexta linha");
         }
     }
 }
