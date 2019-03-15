@@ -11,6 +11,7 @@ namespace Atividade_03
         static void Main(string[] args)
         {
             Console.WriteLine( "Atividade com o git.");
+            Console.WriteLine("Acrescentando mais uma linha.");
         }
     }
 }
