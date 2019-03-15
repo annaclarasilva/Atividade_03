@@ -17,6 +17,7 @@ namespace Atividade_03
             Console.WriteLine("Ñão o que");
             Console.WriteLine("1");
             Console.WriteLine("2");
+            Console.WriteLine("3");
         }
     }
 }
