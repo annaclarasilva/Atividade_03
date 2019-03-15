@@ -20,6 +20,11 @@ namespace Atividade_03
             Console.WriteLine("R - Acrescentando a oitava linha");
             Console.WriteLine("R - Acrescentando a nona linha");
             Console.WriteLine("R - Acrescentando a decima linha");
+            Console.WriteLine("1");
+            Console.WriteLine("2");
+            Console.WriteLine("3");
+            Console.WriteLine("4");
+            Console.WriteLine("5");
         }
     }
 }
